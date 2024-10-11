@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "655422347848",
+    "firebase_url": "https://fuellevel-5c083-default-rtdb.firebaseio.com",
+    "project_id": "fuellevel-5c083",
+    "storage_bucket": "fuellevel-5c083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655422347848:android:20ac4d12f7f5ec523ed67d",
+        "android_client_info": {
+          "package_name": "com.fuellevel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJU661_X9lbweDRJOd2tSiaLwJZic3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
